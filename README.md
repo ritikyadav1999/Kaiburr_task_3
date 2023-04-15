@@ -1,11 +1,11 @@
-# Spring Boot Lazy Initialization example
+# Kaiburr Assessment Task-3
 
-## Versions Used
-- Spring Boot - 2.2.0-M1
-- H2 Database - 1.4.197
+#### A simple java springboot application is made and deployed using Google cloud platform on Google cloud Kubernetes Engine.
 
-## Configuration
-`spring.main.lazy-initialization` is set to `false` by default. This can be set to `true` to enable Lazy Initialization in the Spring Boot Project.
+## Steps Involved:
 
-## Alternatives
-- `http://localhost:8080/lazy` - Uses `LazyController` and `LazyService` which can be marked manually as `@Lazy` for specific Beans
+1. Creating a cluster on google cloud kubernetes engine.
+
+![Kubernetes Engine cluster](https://user-images.githubusercontent.com/122474267/232206070-07b81735-b85b-4f11-bb79-ffb2dd8f6e73.png)
+
+2. Fetching the git repository
