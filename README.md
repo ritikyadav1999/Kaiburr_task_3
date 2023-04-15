@@ -1,6 +1,6 @@
 # Kaiburr Assessment Task-3
 
-#### A simple java springboot application is eployed using Google cloud platform on Google cloud Kubernetes Engine.
+#### A simple java springboot application is deployed using Google cloud platform on Google cloud Kubernetes Engine.
 
 ## Steps Involved:
 
